@@ -64,7 +64,4 @@ buat file css pada direktory public dengan nama style.css , kemudian copy file d
 ![image 20](screenshot/ss19.PNG)
 
 
-#Praktikum 12 (FRAMEWORK Lanjutan (CRUD)
-Konfigurasi Koneksi Database
-Berikut bukti database yang sudah dibuat :
-![image 21](download/database1.png)
+
